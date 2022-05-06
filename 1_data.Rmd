@@ -2,7 +2,8 @@
 title: "1_data"
 author: "Leire Ibaibarriaga"
 date: "6/5/2022"
-output: html_document
+output: 
+  github_document
 ---
 
 ```{r setup, include=FALSE}
